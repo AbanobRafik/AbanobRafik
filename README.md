@@ -1,11 +1,11 @@
 <h1 align="center">
   Hi There, I'm Abanob! 
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40px">
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500px">
 </h1>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500px">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40px">
 
 I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**. Passionate about building scalable web applications and constantly learning new technologies!
 
