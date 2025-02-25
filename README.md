@@ -1,4 +1,4 @@
-<h1 align="center"># **Hi There, I'm Abanob!**![Funny Coding GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+<h1 align="center">Hi There, I'm Abanob ![Funny Coding GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
 <div align="center">
 
 ![Funny Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
