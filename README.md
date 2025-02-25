@@ -1,6 +1,8 @@
-### Hi there, I'm Abanob Rafik! 
+<div align="center">
 
-![Wave GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+
+![Funny Coding GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**. Passionate about building scalable web applications and constantly learning new technologies!
 
@@ -78,4 +80,6 @@ I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**
 ---
 
 Thanks for visiting my profile! 🚀
+
+</div>
 
