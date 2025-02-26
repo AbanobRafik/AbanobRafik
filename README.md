@@ -42,7 +42,7 @@
 
 ## 🔗 **Connect with Me**
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/abanob-rafik-a16079269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -52,33 +52,44 @@
   <a href="https://www.frontendmentor.io/profile/AbanobRafik">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
 ## 🚀 **Top Projects**
 
-- 🎬 **Moviestic:** A responsive movie website  
-  [Moviestic Repository](https://github.com/AbanobRafik/Moviestic)
-
-- 🍽 **EazyEats:** A recipe finder and meal planner  
-  [EazyEats Repository](https://github.com/AbanobRafik/EAZYEATS)
-
-🔗 [More Projects](https://github.com/AbanobRafik)  
+<div align="center">
+  <ul>
+    <li>🎬 <strong>Moviestic:</strong> A responsive movie website  
+      <a href="https://github.com/AbanobRafik/Moviestic">Moviestic Repository</a>
+    </li>
+    <li>🍽 <strong>EazyEats:</strong> A recipe finder and meal planner  
+      <a href="https://github.com/AbanobRafik/EAZYEATS">EazyEats Repository</a>
+    </li>
+  </ul>
+  
+  <a href="https://github.com/AbanobRafik">🔗 More Projects</a>
+</div>
 
 ---
 
 ## 🏆 **Experience**
 
-- **DEPI (Digital Egypt Pioneers Program):** A prestigious program that provided hands-on experience in React web development, enhancing both technical and problem-solving skills.
+<div align="center">
+  <p><strong>DEPI (Digital Egypt Pioneers Program):</strong> A prestigious program that provided hands-on experience in React web development, enhancing both technical and problem-solving skills.</p>
+</div>
 
 ---
 
 ## 📜 **Certifications**
 
-- 🏅 **Udemy:** Pro Frontend Engineer (ReactJS + TypeScript + Redux)  
-- 🏅 **Udemy:** Node.js, Nest.js, PostgreSQL, GraphQL  
-- 🏅 **FreeCodeCamp:** Responsive Web Design Certification  
+<div align="center">
+  <ul>
+    <li>🏅 <strong>Udemy:</strong> Pro Frontend Engineer (ReactJS + TypeScript + Redux)</li>
+    <li>🏅 <strong>Udemy:</strong> Node.js, Nest.js, PostgreSQL, GraphQL</li>
+    <li>🏅 <strong>FreeCodeCamp:</strong> Responsive Web Design Certification</li>
+  </ul>
+</div>
 
 ---
 
@@ -96,11 +107,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&layout=compact&theme=tokyonight" height="180">
 </div>
 
+<div align="center">
+  <ul style="list-style: none;">
+    <li>🔵 <strong>JavaScript</strong> - 40%</li>
+    <li>🟣 <strong>TypeScript</strong> - 25%</li>
+    <li>🟡 <strong>HTML</strong> - 15%</li>
+    <li>🔵 <strong>CSS</strong> - 10%</li>
+    <li>🟢 <strong>Node.js</strong> - 10%</li>
+  </ul>
+</div>
+
 ---
 
 ## 🎉 **Fun Fact**
-💡 I love solving problems and exploring new technologies to build amazing projects!
+<div align="center">
+  💡 I love solving problems and exploring new technologies to build amazing projects!
+</div>
 
 ---
 
-Thanks for visiting my profile! 🚀
+<div align="center">
+  <strong>Thanks for visiting my profile! 🚀</strong>
+</div>
