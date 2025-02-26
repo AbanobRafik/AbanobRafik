@@ -93,7 +93,7 @@
 ## 📊 **Most Used Languages**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&langs_count=8&theme=tokyonight&layout=compact" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&layout=compact&theme=tokyonight" height="180">
 </div>
 
 ---
