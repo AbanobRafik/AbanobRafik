@@ -85,11 +85,7 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AbanobRafik&show_icons=true&theme=tokyonight" height="160"></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanobRafik&show_icons=true&theme=tokyonight" height="180">
 </div>
 
 ---
@@ -97,12 +93,7 @@
 ## 📊 **Most Used Languages**
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&langs_count=8&theme=tokyonight&layout=donut" height="160"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&langs_count=8&theme=tokyonight&layout=compact" height="160"></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&langs_count=8&theme=tokyonight&layout=compact" height="180">
 </div>
 
 ---
