@@ -18,23 +18,23 @@
 <div align="center">
 
 ### 🖥️ **Frontend**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="60" alt="Redux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="TailwindCSS"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" height="60" alt="JavaScript"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="60" alt="TypeScript"/>
+<img src="https://techstack-generator.vercel.app/html-icon.svg" height="60" alt="HTML5"/>
+<img src="https://techstack-generator.vercel.app/css-icon.svg" height="60" alt="CSS3"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" height="60" alt="React"/>
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" height="60" alt="Redux"/>
+<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" height="60" alt="TailwindCSS"/>
 
 ### 🛠️ **Backend**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" alt="Express.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" height="60" alt="Node.js"/>
+<img src="https://techstack-generator.vercel.app/express-icon.svg" height="60" alt="Express.js"/>
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" height="60" alt="MongoDB"/>
 
 ### 🔧 **Tools & Others**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" alt="Postman"/>
+<img src="https://techstack-generator.vercel.app/git-icon.svg" height="60" alt="Git"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" height="60" alt="GitHub"/>
+<img src="https://techstack-generator.vercel.app/postman-icon.svg" height="60" alt="Postman"/>
 
 </div>
 
@@ -59,10 +59,10 @@
 ## 🚀 **Top Projects**
 
 - 🎬 **Moviestic:** A responsive movie website  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbanobRafik/Moviestic)
+  [Moviestic Repository](https://github.com/AbanobRafik/Moviestic)
 
 - 🍽 **EazyEats:** A recipe finder and meal planner  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbanobRafik/EAZYEATS)
+  [EazyEats Repository](https://github.com/AbanobRafik/EAZYEATS)
 
 🔗 [More Projects](https://github.com/AbanobRafik)  
 
