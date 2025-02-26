@@ -13,7 +13,7 @@ I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**
 
 ### 🛠 Tech Stack
 
-<<div align="center">
+<div align="center">
   
   ## 🚀 Frontend Technologies
   <img src="https://your-image-url.com/html.gif" height="50" alt="HTML5"/>
@@ -41,7 +41,7 @@ I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanob-rafik-a16079269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/AbanobRafik)  
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/AbanobRafik)  
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/AbanobRafik)
 
 ---
 
