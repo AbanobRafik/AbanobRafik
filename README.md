@@ -18,23 +18,23 @@
 <div align="center">
 
 ### 🖥️ **Frontend**
-<img src="https://techstack-generator.vercel.app/js-icon.svg" height="60" alt="JavaScript"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="60" alt="TypeScript"/>
-<img src="https://techstack-generator.vercel.app/html-icon.svg" height="60" alt="HTML5"/>
-<img src="https://techstack-generator.vercel.app/css-icon.svg" height="60" alt="CSS3"/>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" height="60" alt="React"/>
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" height="60" alt="Redux"/>
-<img src="https://techstack-generator.vercel.app/tailwind-icon.svg" height="60" alt="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="Redux"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" alt="TailwindCSS"/>
 
 ### 🛠️ **Backend**
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" height="60" alt="Node.js"/>
-<img src="https://techstack-generator.vercel.app/express-icon.svg" height="60" alt="Express.js"/>
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" height="60" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
 
 ### 🔧 **Tools & Others**
-<img src="https://techstack-generator.vercel.app/git-icon.svg" height="60" alt="Git"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" height="60" alt="GitHub"/>
-<img src="https://techstack-generator.vercel.app/postman-icon.svg" height="60" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman"/>
 
 </div>
 
@@ -84,10 +84,14 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanobRafik&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&layout=compact&theme=tokyonight" height="160">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AbanobRafik&show_icons=true&theme=tokyonight" height="160"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&layout=compact&theme=tokyonight" height="160"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
