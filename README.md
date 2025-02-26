@@ -13,27 +13,26 @@ I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**
 
 ### 🛠 Tech Stack
 
-<div align="center">
+<<div align="center">
   
   ## 🚀 Frontend Technologies
-  <img src="https://i.imgur.com/3M8z6YF.gif" height="50" alt="HTML5"/>
-  <img src="https://i.imgur.com/aFYHgDj.gif" height="50" alt="CSS3"/>
-  <img src="https://i.imgur.com/QyxtJMz.gif" height="50" alt="JavaScript"/>
-  <img src="https://i.imgur.com/Y7G8N7j.gif" height="50" alt="TypeScript"/>
-  <img src="https://i.imgur.com/f3FxNWA.gif" height="50" alt="React"/>
-  <img src="https://i.imgur.com/WZsNUPR.gif" height="50" alt="Redux"/>
-  <img src="https://i.imgur.com/uRztkoq.gif" height="50" alt="TailwindCSS"/>
+  <img src="https://your-image-url.com/html.gif" height="50" alt="HTML5"/>
+  <img src="https://your-image-url.com/css.gif" height="50" alt="CSS3"/>
+  <img src="https://your-image-url.com/javascript.gif" height="50" alt="JavaScript"/>
+  <img src="https://your-image-url.com/typescript.gif" height="50" alt="TypeScript"/>
+  <img src="https://your-image-url.com/react.gif" height="50" alt="React"/>
+  <img src="https://your-image-url.com/redux.gif" height="50" alt="Redux"/>
+  <img src="https://your-image-url.com/tailwind.gif" height="50" alt="TailwindCSS"/>
 
   ## 🖥️ Backend Technologies
-  <img src="https://i.imgur.com/9vX5J0V.gif" height="50" alt="Node.js"/>
-  <img src="https://i.imgur.com/7yIgFfJ.gif" height="50" alt="Express.js"/>
-  <img src="https://i.imgur.com/9h3hMBC.gif" height="50" alt="MongoDB"/>
+  <img src="https://your-image-url.com/nodejs.gif" height="50" alt="Node.js"/>
+  <img src="https://your-image-url.com/express.gif" height="50" alt="Express.js"/>
+  <img src="https://your-image-url.com/mongodb.gif" height="50" alt="MongoDB"/>
 
   ## 🔧 Tools & Others
-  <img src="https://i.imgur.com/BdMZW8h.gif" height="50" alt="Git"/>
-  <img src="https://i.imgur.com/qEdXySk.gif" height="50" alt="GitHub"/>
-  <img src="https://i.imgur.com/HvJtT5Q.gif" height="50" alt="Postman"/>
-
+  <img src="https://your-image-url.com/git.gif" height="50" alt="Git"/>
+  <img src="https://your-image-url.com/github.gif" height="50" alt="GitHub"/>
+  <img src="https://your-image-url.com/postman.gif" height="50" alt="Postman"/>
 </div>
 
 ---
