@@ -33,7 +33,6 @@
 
 ### 🔧 **Tools & Others**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman"/>
 
 </div>
@@ -42,7 +41,7 @@
 
 ## 🔗 **Connect with Me**
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/abanob-rafik-a16079269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -52,44 +51,33 @@
   <a href="https://www.frontendmentor.io/profile/AbanobRafik">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
 ## 🚀 **Top Projects**
 
-<div align="center">
-  <ul>
-    <li>🎬 <strong>Moviestic:</strong> A responsive movie website  
-      <a href="https://github.com/AbanobRafik/Moviestic">Moviestic Repository</a>
-    </li>
-    <li>🍽 <strong>EazyEats:</strong> A recipe finder and meal planner  
-      <a href="https://github.com/AbanobRafik/EAZYEATS">EazyEats Repository</a>
-    </li>
-  </ul>
-  
-  <a href="https://github.com/AbanobRafik">🔗 More Projects</a>
-</div>
+- 🎬 **Moviestic:** A responsive movie website  
+  [Moviestic Repository](https://github.com/AbanobRafik/Moviestic)
+
+- 🍽 **EazyEats:** A recipe finder and meal planner  
+  [EazyEats Repository](https://github.com/AbanobRafik/EAZYEATS)
+
+🔗 [More Projects](https://github.com/AbanobRafik)  
 
 ---
 
 ## 🏆 **Experience**
 
-<div align="center">
-  <p><strong>DEPI (Digital Egypt Pioneers Program):</strong> A prestigious program that provided hands-on experience in React web development, enhancing both technical and problem-solving skills.</p>
-</div>
+- **DEPI (Digital Egypt Pioneers Program):** A prestigious program that provided hands-on experience in React web development, enhancing both technical and problem-solving skills.
 
 ---
 
 ## 📜 **Certifications**
 
-<div align="center">
-  <ul>
-    <li>🏅 <strong>Udemy:</strong> Pro Frontend Engineer (ReactJS + TypeScript + Redux)</li>
-    <li>🏅 <strong>Udemy:</strong> Node.js, Nest.js, PostgreSQL, GraphQL</li>
-    <li>🏅 <strong>FreeCodeCamp:</strong> Responsive Web Design Certification</li>
-  </ul>
-</div>
+- 🏅 **Udemy:** Pro Frontend Engineer (ReactJS + TypeScript + Redux)  
+- 🏅 **Udemy:** Node.js, Nest.js, PostgreSQL, GraphQL  
+- 🏅 **FreeCodeCamp:** Responsive Web Design Certification  
 
 ---
 
@@ -101,31 +89,19 @@
 
 ---
 
-## 📊 **Most Used Languages**
+## 📊 **Most Used Languages**  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&layout=compact&theme=tokyonight" height="180">
-</div>
-
-<div align="center">
-  <ul style="list-style: none;">
-    <li>🔵 <strong>JavaScript</strong> - 40%</li>
-    <li>🟣 <strong>TypeScript</strong> - 25%</li>
-    <li>🟡 <strong>HTML</strong> - 15%</li>
-    <li>🔵 <strong>CSS</strong> - 10%</li>
-    <li>🟢 <strong>Node.js</strong> - 10%</li>
-  </ul>
+  <a href="https://github.com/AbanobRafik">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobRafik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
 </div>
 
 ---
 
 ## 🎉 **Fun Fact**
-<div align="center">
-  💡 I love solving problems and exploring new technologies to build amazing projects!
-</div>
+💡 I love solving problems and exploring new technologies to build amazing projects!
 
 ---
 
-<div align="center">
-  <strong>Thanks for visiting my profile! 🚀</strong>
-</div>
+Thanks for visiting my profile! 🚀
