@@ -13,50 +13,27 @@ I am a **MERN Stack Web Developer** specializing in **React.js** and **Node.js**
 
 ### 🛠 Tech Stack
 
----
-
 <div align="center">
-  <style>
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
-    
-    @keyframes rotate {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-    
-    .tech-icon {
-      display: inline-block;
-      margin: 15px;
-      height: 70px;
-      animation: float 3s ease-in-out infinite;
-    }
+  
+  ## 🚀 Frontend Technologies
+  <img src="https://i.imgur.com/3M8z6YF.gif" height="50" alt="HTML5"/>
+  <img src="https://i.imgur.com/aFYHgDj.gif" height="50" alt="CSS3"/>
+  <img src="https://i.imgur.com/QyxtJMz.gif" height="50" alt="JavaScript"/>
+  <img src="https://i.imgur.com/Y7G8N7j.gif" height="50" alt="TypeScript"/>
+  <img src="https://i.imgur.com/f3FxNWA.gif" height="50" alt="React"/>
+  <img src="https://i.imgur.com/WZsNUPR.gif" height="50" alt="Redux"/>
+  <img src="https://i.imgur.com/uRztkoq.gif" height="50" alt="TailwindCSS"/>
 
-    .rotate {
-      animation: rotate 3s linear infinite;
-    }
-  </style>
+  ## 🖥️ Backend Technologies
+  <img src="https://i.imgur.com/9vX5J0V.gif" height="50" alt="Node.js"/>
+  <img src="https://i.imgur.com/7yIgFfJ.gif" height="50" alt="Express.js"/>
+  <img src="https://i.imgur.com/9h3hMBC.gif" height="50" alt="MongoDB"/>
 
-  <h2>🚀 Frontend Technologies</h2>
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux">
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS">
+  ## 🔧 Tools & Others
+  <img src="https://i.imgur.com/BdMZW8h.gif" height="50" alt="Git"/>
+  <img src="https://i.imgur.com/qEdXySk.gif" height="50" alt="GitHub"/>
+  <img src="https://i.imgur.com/HvJtT5Q.gif" height="50" alt="Postman"/>
 
-  <h2>🖥️ Backend Technologies</h2>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-
-  <h2>🔧 Tools & Others</h2>
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-  <img class="tech-icon rotate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman">
 </div>
 
 ---
